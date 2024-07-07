@@ -1,1 +1,1 @@
-[Click here to watch the video](Demo 1.mp4)
+This project can search in a database of clothing utilizing MySQL.
